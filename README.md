@@ -8,10 +8,7 @@
  
 {  
 
-* 🥇 `My name is`: **Martin**,
-* 📚 `I’m currently studying`: **Computer Science at the University of Calgary**,
-* 💻 `I’m passionate about`: **Machine Learning and AI**
-* 🔬 `I’m currently learning more languages`
+
 
 }
 
